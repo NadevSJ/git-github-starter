@@ -1,0 +1,8 @@
+# Private files (never upload these)
+secret-notes.txt
+
+# Python cache folders
+__pycache__/
+
+# VS Code settings folder
+.vscode/
