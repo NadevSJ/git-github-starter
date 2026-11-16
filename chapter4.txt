@@ -4,3 +4,4 @@ This is the MAIN branch version of chapter 4.
 This is the feature branch version of chapter 4.
 >>>>>>> feature/conflict-demo
 Fast extra commit 1 practice.
+Fast extra commit 2 practice.
